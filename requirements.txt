@@ -1,0 +1,11 @@
+crawl4ai
+langchain
+langchain-community
+ollama
+langchain-ollama
+chromadb
+tqdm
+pandas
+beautifulsoup4
+requests
+python-dotenv
